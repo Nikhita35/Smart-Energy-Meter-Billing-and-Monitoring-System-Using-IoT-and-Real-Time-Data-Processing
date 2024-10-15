@@ -1,3 +1,4 @@
+Project Title : Smart Energy Meter Billing and Monitoring System Using IoT and Real-Time Data Processing
 Introduction : 
 In my recent project, I worked on developing an IoT-Based Smart Energy Monitoring and Billing System. The main objective of the project was to address the inefficiencies in traditional energy monitoring systems, such as manual readings that are prone to errors and delays. The solution we created enables real-time monitoring of energy consumption using IoT technology, helping both consumers and utility companies manage energy usage more effectively."
 
